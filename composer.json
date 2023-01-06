@@ -1,0 +1,15 @@
+{
+    "name": "manta/oop-exam",
+    "description": "OOP exam",
+    "autoload": {
+        "psr-4": {
+            "Manta\\OopExam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Audrone"
+        }
+    ],
+    "require": {}
+}
